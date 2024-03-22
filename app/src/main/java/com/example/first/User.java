@@ -9,14 +9,8 @@ public class User implements Serializable {
     public String Email(){
         return email;
     }
-    public void Email(String email){
-        this.email = email;
-    }
     public String Password(){
         return password;
-    }
-    public void Password(String password){
-        this.password = password;
     }
     public User(String email, String password){
         this.email = email;
