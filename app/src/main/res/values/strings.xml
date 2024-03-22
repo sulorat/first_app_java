@@ -5,4 +5,9 @@
     <string name="sign_in">Sign In</string>
     <string name="sign_up">Sign Up</string>
     <string name="name">dima</string>
+    <string name="edit_text_1">Email</string>
+    <string name="password_sign_in">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="name_sign_up">Name</string>
+    <string name="confirm_password">Confirm Password</string>
 </resources>
