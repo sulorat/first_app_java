@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="editText3" type="id" />
-    <item name="editText5" type="id" />
-    <item name="editText4" type="id" />
+    <item name="name" type="id" />
+    <item name="password_sign_up" type="id" />
+    <item name="email_sign_up" type="id" />
 </resources>
